@@ -1,0 +1,36 @@
+devops
+
+developer + operations
+
+what is devops?
+
+how to become a devops engineer?
+https://www.geeksforgeeks.org/how-to-become-a-devops-engineer-a-complete-roadmap/
+
+
+latest devops tools to learn in 2023?
+
+
+to learn:
+    git
+    linux
+    Docker
+    ansible
+    Terraform
+    Jenkins
+
+git:
+    init        *
+    remote
+    commit      *   &
+    add         *   &
+    pull            &
+    push            &
+    merge           &
+    fetch
+    config      *
+    log         *
+    branch      *   &
+    checkout    *   &
+    clone           &
+
