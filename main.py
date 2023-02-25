@@ -18,9 +18,11 @@ window.fps_counter.x = 0
 window.fps_counter.scale = 2
 window.fps_counter.color = color.green
 
+application.development_mode = False
+
 SPLASH = True
 
-# window.fullscreen = True
+window.fullscreen = True
 sound = Audio('life_is_currency', pitch=random.uniform(.5, 1), loop=True, autoplay=False, volume=1)
 
 
