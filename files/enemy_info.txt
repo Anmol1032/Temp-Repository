@@ -25,21 +25,5 @@
 
 
 
-
-
-- fragmented:
-    --- normal ---
-        player  - you
-        graper  - give xp only.
-        frank   - give xp only.
-
-    --- hostile ---
-        krate   - attack directly.
-        graster - attack by an arrow.
-        cracker - attack by explosion.
-        blaster - attack by an explosive arrow.
-
-
-
 - Bose:
         wacan
